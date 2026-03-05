@@ -1,5 +1,107 @@
 
 # ESP32 IoT Home Automation with Web Dashboard 🚀
+# ESP32 IoT Home Automation System 🚀
+
+A smart home automation project built using **ESP32 and WiFi** that allows users to control devices remotely through a web dashboard and REST API.
+
+This project demonstrates the integration of **Embedded Systems + Web Technologies + IoT Communication**.
+
+---
+
+## Features
+
+- Control devices remotely using WiFi
+- Built-in ESP32 web server
+- Simple web dashboard interface
+- REST API for automation
+- Expandable architecture
+- Lightweight and fast
+
+---
+
+## Technologies Used
+
+- ESP32 Microcontroller
+- Arduino Framework
+- HTML
+- CSS
+- JavaScript
+- WiFi Networking
+
+---
+
+## Hardware Requirements
+
+- ESP32 Development Board
+- Relay Module or LED
+- Breadboard
+- Jumper Wires
+- Power Supply
+
+---
+
+## Circuit Connections
+
+| Device | ESP32 Pin |
+|------|------|
+| Relay / LED | GPIO 26 |
+| VCC | 5V |
+| GND | GND |
+
+---
+
+## Project Structure
+
+---
+
+## Installation
+
+1. Install **Arduino IDE**
+2. Install **ESP32 Board Package**
+3. Open the project code
+4. Update your WiFi credentials
+
+5. Upload the code to ESP32
+6. Open Serial Monitor
+7. Copy the ESP32 IP address
+8. Open it in your browser
+
+---
+
+## API Endpoints
+
+Turn device ON
+
+---
+
+## Future Improvements
+
+- MQTT integration
+- Mobile app control
+- Sensor data monitoring
+- AI based automation
+- Voice assistant integration
+
+---
+
+## Use Cases
+
+- Smart Home Control
+- IoT Learning Project
+- Embedded Systems Portfolio
+- Automation Prototype
+
+---
+
+## License
+
+MIT License
+
+---
+
+## Author
+
+Dhruvang
 
 An advanced IoT project using **ESP32 + WiFi + Web Server** that allows you to control devices from a browser dashboard.
 
