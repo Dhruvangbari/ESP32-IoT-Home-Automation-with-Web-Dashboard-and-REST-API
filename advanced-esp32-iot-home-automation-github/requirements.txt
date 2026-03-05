@@ -1,0 +1,5 @@
+
+Arduino IDE
+ESP32 Board Package
+WiFi Library (built-in)
+WebServer Library
