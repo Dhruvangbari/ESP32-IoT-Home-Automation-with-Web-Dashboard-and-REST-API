@@ -1,5 +1,15 @@
+Arduino IDE >= 2.0
 
-Arduino IDE
 ESP32 Board Package
-WiFi Library (built-in)
-WebServer Library
+
+Libraries:
+WiFi.h
+WebServer.h
+ESPmDNS.h (optional)
+
+Optional Libraries for future expansion:
+PubSubClient (MQTT)
+ArduinoJson
+Blynk
+DHT sensor library
+Adafruit Unified Sensor
